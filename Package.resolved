@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JavaScriptKit",
+        "repositoryURL": "https://github.com/swiftwasm/JavaScriptKit",
+        "state": {
+          "branch": null,
+          "revision": "ebd9ca04215397f0e3cb72d6e96406a980a424e5",
+          "version": "0.10.0"
+        }
+      },
+      {
+        "package": "JelloSwift",
+        "repositoryURL": "https://github.com/alvarhansen/JelloSwift",
+        "state": {
+          "branch": "wasm",
+          "revision": "b377e74839b7cce784f0c47179dc36462433aa93",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
